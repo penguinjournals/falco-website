@@ -54,7 +54,7 @@ Alerts are configurable downstream actions that can be as simple as logging to `
 
 ## What are the Components of Falco?
 
-Falco is composed of three main components:
+Falco is composed of four main components:
 
  - Userspace program - is the CLI tool `falco` that you can use to interact with Falco. The userspace program handles signals, parses information from a Falco driver, and sends alerts.
 
